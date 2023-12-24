@@ -29,7 +29,7 @@ Before you start, ensure you have the following:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/bookzone-app.git
+   git clone https://github.com/fzn1998/BookZone.git
    ```
 
 2. Open the project in Android Studio or Xcode.
@@ -60,7 +60,7 @@ We welcome contributions to enhance the BookZone App! To contribute, follow thes
 
 ## Issues and Support
 
-If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/your-username/bookzone-app/issues).
+If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/fzn1998/BookZone/issues).
 
 ## License
 
